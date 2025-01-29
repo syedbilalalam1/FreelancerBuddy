@@ -56,6 +56,8 @@ A comprehensive AI-powered workspace for freelancers and professionals. Combines
   - Automatic content extraction
   - Smart context analysis
   - Key point identification
+ 
+  ![Image](https://github.com/user-attachments/assets/d43a10a4-bb69-4602-8311-73a20fd51e36)
 
 - ✍️ **Professional Answer Generation**
   - AI-powered response creation
