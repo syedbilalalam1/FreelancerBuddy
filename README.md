@@ -5,6 +5,9 @@ A comprehensive AI-powered workspace for freelancers and professionals. Combines
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Node](https://img.shields.io/badge/node-%3E%3D%2018.0.0-brightgreen.svg)
 
+
+![Image](https://github.com/user-attachments/assets/2cda2b68-9350-486b-888b-25636503533a)
+
 ## 🎯 Key Features
 
 - 💼 **Business Management**
