@@ -1,0 +1,6 @@
+@echo off
+echo Starting Document Analysis Tool...
+start /B document-analysis-tool.exe
+echo Application started! The browser window should open automatically.
+echo Press any key to exit this window...
+pause > nul 
